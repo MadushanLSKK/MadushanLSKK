@@ -2,6 +2,24 @@
 <h3 align="center">Student at Faculty of Technology University of Colombo</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madushanlskk&label=Profile%20views&color=0e75b6&style=flat" alt="madushanlskk" /> </p>
+<div align="center">
+  <a href="https://github.com/Adityakanoi2001/">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<hr>
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=MadushanLSKK&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadushanLSKK&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadushanLSKK&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=MadushanLSKK&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+
+<h3>MY TOPICS <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h3>
+
+<ul>
+
+
+
 
 ---
 
