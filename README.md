@@ -3,9 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madushanlskk&label=Profile%20views&color=0e75b6&style=flat" alt="madushanlskk" /> </p>
 <div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <h1>#Software Developer</h1>
 </div>
 
 <hr>
