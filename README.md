@@ -1,10 +1,4 @@
-<p align="center">
-  <img 
-    src="https://github.com/MadushanLSKK.png"
-    width="180"
-    alt="Kavindu Madushan"
-  />
-</p>
+
 
 
 # 💫 About Me:
